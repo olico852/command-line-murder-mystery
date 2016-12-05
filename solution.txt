@@ -1,0 +1,95 @@
+History: 
+470  cat ../instructions 
+  471  grep -R CLUE mystery/crimescene.txt
+  472  cd mystery/crimescene
+  473  cd mystery
+  474  pwd
+  475  ls
+  476  grep -R CLUE crimescene
+  477  cat interviews
+  478  ls interviews/
+  479  pwd
+  480  cd /Users/uhmon/WDI/Day1/command-line-murder-mystery
+  481  ls
+  482  cat instructions 
+  483  open cheatsheet.pdf
+  484  grep -R CLUE mystery/crimescene
+  485  touch solution.txt
+  486  TextEdit solution.txt
+  487  grep -R CLUE mystery/crimescene > solution.txt
+  488  open solution.txt
+  489  ls -a
+  490  ls mystery
+  491  cd mystery/streets/
+  492  ls
+  493  cat Haley_Street 
+  494  pwd
+  495  ls ../ >> solution.txt
+  496  open ../solution.txt
+  497  open ../../solution.txt
+  498  ls /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/ >> solution.txt
+  499  ls ../../solution.txt
+  500  open ../../solution.txt
+  501  pwd
+  502  grep -R ATM .
+  503  grep -R ATM /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/streets
+  504  grep -R "ATM" /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/streets 
+  505  grep -R "security" /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/streets 
+  506  grep -R security /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/streets
+  507  grep -R AAA /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/memberships/
+  508  grep -R Delta /Users/uhmon/WDI/Day1/command-line-murder-mystery/mystery/memberships
+  509  pwd
+  510  cd../
+  511  cd ../
+  512  grep -R Delta memberships/
+  513  grep -R SkyMiles memberships/
+  514  grep -R Musuem memberships/
+  515  grep -R "no name" memberships/
+  516  grep -R Annabel memberships/
+  517  grep -R Annabel interviews/
+  518  grep -R Church interviews/
+  519  grep -R Church streets/
+  520  grep -R Church vehicles/
+  521  pwd
+  522  open vehicles/
+  523  grep -R Church vehicles.txt
+  524  grep -R Oluwasegun interviews/
+  525  grep -R Oluwasegun people/
+  526  pwd
+  527  open people
+  528  grep -R Oluwasegun people.txt
+  529  grep -R Oluwasegun people
+  530  grep -R Annabel people
+  531  open people
+  532  sed -n '173'p street/"Mattapan Street"/
+  533  sed -n'173'p streets/Mattapan_Street/
+  534  less +173 streets/Mattapan_Street 
+  535  less +40 streets/Hart_Place 
+  536  less +179 streets/Buckingham_Place 
+  537  sed -n '173'p streets/Hart_Place 
+  538  sed -n '173'p streets/Mattapan_Street 
+  539  sed -n '179'p streets/Buckingham_Place 
+  540  sed -n '40'p streets/Hart_Place 
+  541  sed -n '176'p streets/Haley_Street 
+  542  grep -R "#9437737" interviews/
+  543  grep -A 4 "#9437737" interviews
+  544  cat interviews/#9437737
+  545  cat interviews/interview-9437737
+  546  cat interviews/interview-699607
+  547  cat head vehicles
+  548  grep -R "L337*" vehicles.txt
+  549  grep -R "L337*" vehicles
+  550  grep -A 4 "L337*" vehicles
+  551  grep -R Joe memberships
+  552  grep -R Jeremy memberships
+  553  history
+>>
+
+
+Killer: 
+Owner: Jeremy Bowers
+
+
+
+
+
